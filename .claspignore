@@ -1,0 +1,12 @@
+**/**
+!appsscript.json
+!コード.js
+!*.gs
+!*.js
+
+# But exclude these even if they match above
+node_modules/**
+local-modules/**
+*.md
+package*.json
+.*
